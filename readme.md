@@ -9,4 +9,4 @@ sample images used -
 image 2 -
 
 
-![](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
+![](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)# main-portfolio

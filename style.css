@@ -124,17 +124,24 @@ figcaption{
     background-color: #e5e7eb;
 }
 
+.project-description{
+    padding-bottom: 6px;
+}
+
 .description-title{
     text-align: center;
     font-size: 36px;
     font-weight: bold;
     color: #1f2937;
-    padding-bottom: 20px;
+}
+
+.description-subtitle{
+    font-size: 12px;
 }
 
 .description{
     display: flex;
-    gap: 40px;
+    gap: 30px;
     flex-direction: column;
     /* justify-content: center; */
     padding: 30px 300px;

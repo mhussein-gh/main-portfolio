@@ -91,6 +91,7 @@ div img{
     border-style: solid;
     border-color: #3882f6;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .img{
@@ -137,14 +138,19 @@ figcaption{
     flex-direction: column;
     /* justify-content: center; */
     padding: 30px 300px;
-    height: 350px;
+    height: 450px;
 }
 
 .description-text{
-    font-size: 26px;
-    font-weight: bold;
+    font-size: 24px;
     /* font-style: italic; */
     color: #1f2937;
+}
+
+.description-text2{
+    color: rgb(117, 117, 117);
+    font-size: 18px;
+    font-weight: bold;
 }
 
 /* NEW SECTION*/
@@ -160,4 +166,9 @@ footer{
 
 .img a:hover img{
     border-color: #1f2937;
+}
+
+.description-project-name{
+    font-size: 28px;
+    font-weight: bold;
 }
